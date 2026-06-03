@@ -2,7 +2,8 @@
 
 > **Intern:** Data Analytics Track  
 > **Organization:** [DecodeLabs.tech](https://www.decodelabs.tech)  
-> **Batch:** 17-May-2026 to 17-June-2026 
+> **Batch:** 17-May-2026 to 17-June-2026
+
 > **Dataset:** E-Commerce Orders — 1,200 rows
 
 ---
