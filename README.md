@@ -2,7 +2,7 @@
 
 > **Intern:** Data Analytics Track  
 > **Organization:** [DecodeLabs.tech](https://www.decodelabs.tech)  
-> **Batch:** 2026  
+> **Batch:** 17-May-2026 to 17-June-2026 
 > **Dataset:** E-Commerce Orders — 1,200 rows
 
 ---
@@ -10,18 +10,6 @@
 ## 🎯 Goal
 
 Take raw, messy e-commerce order data and transform it into a clean, analysis-ready dataset. This is the foundation for all other projects.
-
----
-
-## 📁 Repository Structure
-
-```
-decodelabs-p1-data-cleaning/
-│
-├── 📄 project1_data_cleaning.py     # Main cleaning script
-├── 📊 Dataset for Data Analytics.xlsx  # Raw input dataset
-└── 📊 cleaned_dataset.xlsx          # Output — cleaned dataset
-```
 
 ---
 
@@ -68,20 +56,6 @@ decodelabs-p1-data-cleaning/
 | Date Format Fixed | ✅ |
 | Text Columns Cleaned | ✅ |
 | Business Logic Valid | ✅ |
-
----
-
-## ⚙️ How to Run
-
-```bash
-# Step 1 — Install required libraries
-pip install pandas openpyxl
-
-# Step 2 — Run the script
-python project1_data_cleaning.py
-```
-
-**Output:** `cleaned_dataset.xlsx` will be generated in the same folder.
 
 ---
 
